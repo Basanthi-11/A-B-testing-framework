@@ -56,7 +56,7 @@ Assuming 1M MAU at current conversion rate:
 - Temporal novelty effect analysis via daily conversion trends
 - CUPED (Controlled-experiment Using Pre-Experiment Covariates)
 - Sample Ratio Mismatch (SRM) detection
-- Executive memo — business narrative framing
+
 
 ---
 
