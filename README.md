@@ -3,7 +3,7 @@
 > *"Most teams stop at p-values. ."*
 
 A production-grade experimentation framework applied to a 294K-user A/B test — 
-built to mirror how Netflix's experimentation platform evaluates product decisions.
+
 
 ---
 
